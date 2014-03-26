@@ -5,7 +5,7 @@ import codecs
 
 print('Welcome to the user analyser\n')
 #username = input("Please enter a username: ")
-username = 'FoxMcCarther'
+username = 'JasonW7'
 text_File = codecs.open("rawData.txt", encoding="utf-8", mode="w")
 final_Results = codecs.open("refinedData.txt", encoding="utf-8", mode="w")
 
